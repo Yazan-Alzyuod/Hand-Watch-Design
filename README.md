@@ -1,5 +1,5 @@
 # Hand-Watch-Design
-# Parametric Wristwatch Assembly (Creo 8.0)
+# Design and Assemply of hand watch (Creo 8.0)
 
 ![Main Render](05.jpeg)
 
